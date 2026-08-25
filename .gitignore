@@ -1,0 +1,10 @@
+# Never commit credentials of any kind
+.env
+.env.*
+*.pat
+*token*
+*.cookie
+*.session
+
+node_modules/
+.DS_Store
